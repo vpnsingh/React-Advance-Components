@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "pname": "U.S. Polo Assn. Sneakers",
+      "price": "1799",
+      "quantity": "6",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10339033/2019/8/6/df9a712b-a5fc-4a65-870a-0854fb50ea221565093150139-US-Polo-Assn-Men-Casual-Shoes-7391565093148433-1.jpg",
+      "id": 1
+    },
+    {
+      "pname": "Red Tape Sneakers",
+      "price": "2099",
+      "quantity": "3",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11391306/2020/2/12/10b9eea6-35be-4b7d-8c39-826d4d3500c11581485549564-US-Polo-Assn-Men-Casual-Shoes-4671581485548936-1.jpg",
+      "id": 2
+    },
+    {
+      "pname": "Urbano Juniors",
+      "price": "741",
+      "quantity": "7",
+      "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2021/4/9/775a74fe-36b4-4e6e-8493-bfc022a2f0a81617948763183-1.jpg",
+      "id": 3
+    }
+  ]
+}
